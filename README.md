@@ -1,0 +1,2 @@
+# fom
+effect fomo
